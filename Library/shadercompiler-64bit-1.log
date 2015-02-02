@@ -1,3 +1,37 @@
-Base path: /Applications/Unity5_b20/Unity5_b20.app/Contents
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1943913216
+Base path: /Applications/Unity5_b21/Unity5_b21.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1972511488
 Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=9591 outsize=6366 kw=UNITY_COLORSPACE_GAMMA ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=9591 outsize=6 kw=UNITY_COLORSPACE_GAMMA ok=1
+Cmd: preprocess
+  insize=646 outsize=1339 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5333 outsize=2455 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5333 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3475 outsize=1879 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3475 outsize=6 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2715 outsize=960 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2715 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5339 outsize=2531 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5339 outsize=6 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=857 outsize=1880 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=857 outsize=6 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1129 outsize=9808 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1129 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1046 outsize=5663 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1046 outsize=6 kw=DIRECTIONAL SHADOWS_OFF ok=1
